@@ -1,0 +1,2 @@
+Drag and drop this style.css into your qb-inventory html file, it should replace your css. 
+
